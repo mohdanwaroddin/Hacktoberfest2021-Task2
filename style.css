@@ -1,8 +1,33 @@
-h1{
-    text-align: center;
-    color:red;
-}
-
-p{
-    font-size: 10px;
-}
+ body{
+            background: linear-gradient(to left, #9ce5fb, #65c9f7, #2ec4df);
+        font-size: 20px;
+        }
+        h1{
+             text-align: center;
+             color: purple;
+        }
+        p {
+            text-align: center;
+        }
+        #myname{
+            color: blue;
+        }
+        #In{
+            color: orange;
+        }
+        #d{
+            color: white;
+        }
+        #ia{
+            color: green;
+        }
+        #cfont{
+            font-size:40px;
+        }
+        img{
+            border: 1px solid black;
+        }
+        img:hover{
+            border: 1px solid yellowgreen;
+            transition: 0.7s;
+        }
